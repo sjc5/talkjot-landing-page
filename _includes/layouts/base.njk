@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ metadata.title }} – {{ title }}</title>
+  <title>{{ metadata.title }}{% if (page.url !== "/") %} – {{ title }}{% endif %}</title>
   <meta name="description" content="{{ description or metadata.description }}">
   <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
   <link rel="apple-touch-icon" sizes="400x400" href="/img/background.jpg">
@@ -13,14 +13,14 @@
   <meta name="twitter:site" content="@TalkJot" />
   <meta name="twitter:creator" content="@TalkJot">
   <meta name="twitter:title" content="{{ title }}" />
-  <meta name="twitter:image" content="{{ metadata.url }}/img/background.jpg" />
+  <meta name="twitter:image" content="{{ metadata.url }}/img/twitter-card.png" />
   <meta name="twitter:description" content="{{ description or metadata.description }}" />
   <meta property="og:type" content="website">
   <meta property="og:description" content="{{ description or metadata.description }}">
   <meta property="og:site_name" content="{{ metadata.title }}">
   <meta property="og:url" content="{{ metadata.url }}{{ page.url }}">
   <meta property="og:title" content="{{ title }}">
-  <meta property="og:image" content="{{ metadata.url }}/img/background.jpg">
+  <meta property="og:image" content="{{ metadata.url }}/img/og-card.jpeg">
 </head>
 
 <body>

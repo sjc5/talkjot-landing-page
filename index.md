@@ -1,11 +1,12 @@
 ---
 layout: layouts/home.njk
-title: Fast & Private Voice-to-Email Notes
+title: TalkJot App
 ---
 
 <div class="home-top">
   <div class="home-top-left">
-    <h2>Fast & Private Voice-to-Email Notes</h2>
+    <h2>Fast & Private<br>Voice-to-Email Notes</h2>
+    <p class="emoji-header">🗣️ » 🗒️ » 📨 » 🚀</p>
     <p>TalkJot is the simplest, most private way to email yourself quick speech-to-text ideas, reminders and notes.</p>
     <div class="store-buttons">
       <a href="https://apps.apple.com/us/app/talkjot-voice-to-email-notes/id1499580999" target="_blank" class="store-button">
@@ -67,7 +68,7 @@ title: Fast & Private Voice-to-Email Notes
     </div>
   </div>
   <div class="feature">
-    <h3 class="feature-emoji">🚀</h3>
+    <h3 class="feature-emoji">✅</h3>
     <div class="feature-text">
       <h3>
         Cross-Platform

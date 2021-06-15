@@ -70,6 +70,12 @@ img {
   margin-top: 0;
 }
 
+.emoji-header {
+  font-size: 1.1em;
+  margin-top: -0.5em;
+  margin-bottom: 0;
+}
+
 .screenshot-div {
   max-width: 40%;
   padding-right: 0.25em;
