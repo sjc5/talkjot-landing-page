@@ -6,6 +6,7 @@ eleventyNavigation:
   key: Privacy
   order: 1
 title: Privacy
+description: TalkJot App – Privacy
 ---
 
 <h2>Privacy Policy</h2>

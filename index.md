@@ -1,6 +1,7 @@
 ---
 layout: layouts/home.njk
-title: TalkJot App – Fast & Private Voice-to-Email Notes
+title: Fast & Private Voice-to-Email Notes
+description: TalkJot App – Fast & Private Voice-to-Email Notes
 ---
 
 <div class="home-top">
