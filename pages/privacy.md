@@ -18,8 +18,8 @@ If, however, you do send us an email that includes personal information, we may 
 
 Our app uses third-party speech recognition services (as are built into your device) and third-party email apps (again, as are built into your device). The privacy policies of those respective third parties will apply to your use of such services.
 
-In general, we would like to encourage all of our users to take measures in their personal lives to protect their privacy and security, such as by using VPNs, avoiding companies that collect and sell their data, and by using reputable password managers and 2FA on all user accounts.
+In general, we would like to encourage all of our users to take measures in their personal lives to protect their privacy and security, such as by using VPNs, avoiding companies that collect and sell their data, using reputable, open source password managers and activating multi-factor authentication on all important or sensitive online accounts.
 
-TalkJot and its creator hereby disclaim any and all liablity stemming from or in any way related to your use of this website or the TalkJot app.
+TalkJot and its creator hereby disclaim any and all liability stemming from or in any way related to your use of this website or the TalkJot app.
 
 If you have any questions at all, please do not hesitate to reach out to us at hello@talkjot.co.

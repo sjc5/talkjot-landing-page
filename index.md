@@ -85,7 +85,7 @@ title: TalkJot App
         Actually Find Your Notes Again
       </h3>
       <p>
-        Notes and reminders sent to your own personal email address are much more likely to actually be found and acted upon than notes stored in a random notes app or notebook! Take your "notes to self" to the next level.
+        Notes and reminders sent to your own personal email address are much more likely to actually be found and acted upon than notes stored in a random notes app or notebook! Take your "notes to self" to the next level with TalkJot.
       </p>
     </div>
   </div>
