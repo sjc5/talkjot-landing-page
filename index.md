@@ -68,7 +68,7 @@ title: TalkJot App
     </div>
   </div>
   <div class="feature">
-    <h3 class="feature-emoji">✅</h3>
+    <h3 class="feature-emoji">🧑‍🚀</h3>
     <div class="feature-text">
       <h3>
         Cross-Platform
