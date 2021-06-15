@@ -6,7 +6,6 @@ eleventyNavigation:
   key: Support
   order: 2
 title: Support
-description: TalkJot App – Support
 ---
 
 <h2>Support</h2>
