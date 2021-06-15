@@ -6,7 +6,7 @@ title: TalkJot App
 <div class="home-top">
   <div class="home-top-left">
     <h2>Fast & Private<br>Voice-to-Email Notes</h2>
-    <p class="emoji-header">🗣️ » 🗒️ » 📨 » 🚀</p>
+    <p class="emoji-header">🗣️ » 📨 » 🚀</p>
     <p>TalkJot is the simplest, most private way to email yourself quick speech-to-text ideas, reminders and notes.</p>
     <div class="store-buttons">
       <a href="https://apps.apple.com/us/app/talkjot-voice-to-email-notes/id1499580999" target="_blank" class="store-button">
