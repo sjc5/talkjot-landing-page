@@ -72,6 +72,7 @@ img {
 
 .screenshot-div {
   max-width: 40%;
+  padding-right: 0.25em;
 }
 
 .screenshot {
@@ -329,6 +330,7 @@ footer a:not(:last-child) {
 
   .screenshot-div {
     margin: 1em;
+    padding-right: 0;
   }
 
   .features {
