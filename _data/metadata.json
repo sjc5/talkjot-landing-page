@@ -1,0 +1,21 @@
+{
+  "title": "TalkJot App",
+  "url": "https://talkjot.co",
+  "language": "en",
+  "description": "Fast & Private Voice-to-Email Notes",
+  "feed": {
+    "subtitle": "Feed",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://talkjot.co"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://talkjot.co/feed/feed.json"
+  },
+  "author": {
+    "name": "TalkJot",
+    "email": "hello@talkjot.co",
+    "url": "https://talkjot.co"
+  }
+}
