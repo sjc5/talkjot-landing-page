@@ -78,7 +78,7 @@ img {
   box-sizing: border-box;
   border: 0.5em solid #111;
   border-radius: 1.2em;
-  width: 100%;
+  width: auto;
   max-height: 18em;
 }
 
@@ -273,7 +273,6 @@ footer a:not(:last-child) {
   }
 
   .screenshot-div {
-    max-width: 50%;
     max-width: none;
   }
 }
